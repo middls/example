@@ -71,7 +71,8 @@ gulp.task('babel:vendor', () =>
         .pipe(rigger())
         .pipe(sm.init())
         .pipe(babel({
-            presets: ['latest']
+            presets: ['latest'],
+            compact: false
         }))
         .pipe(uglify())
         .pipe(concat('vendor.js'))
