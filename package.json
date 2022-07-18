@@ -45,7 +45,7 @@
     "font-awesome": "^4.7.0",
     "gulp-rigger": "^0.5.8",
     "jquery": "^3.3.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "jquery-ui-touch-punch": "^0.2.3",
     "jquery.maskedinput": "^1.4.1",
     "phantomjs-prebuilt": "^2.1.16",
